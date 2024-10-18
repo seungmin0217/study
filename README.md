@@ -3,8 +3,8 @@
 여기에는 다양한 학습 자료와 프로젝트가 담겨 있습니다.
 
 ## 글 목록
-- [첫 번째 글](posts/post1.md)
-- [두 번째 글](posts/post2.md)
+- [growthhacking](posts/growth hacking.md)
+- [decoupling](posts/decoupling.md)
 
 ## 주제별 학습
 - [Spark 문제 풀이](spark/about.md)
