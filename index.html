@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<h2 class="text-2xl font-semibold mt-8">글 목록</h2>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
+  {% for post in site.posts %}
+  <a href="{{ post.url }}" class="block bg-white p-4 rounded-lg shadow hover:shadow-lg transition">
+    <h3 class="text-xl font-bold">{{ post.title }}</h3>
+    <p class="text-gray-600">{{ post.excerpt }}</p>
+  </a>
+  {% endfor %}
+</div>
