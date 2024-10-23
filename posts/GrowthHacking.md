@@ -1,4 +1,4 @@
-### **Growth Hacking **
+### **Growth Hacking**
 
 ---
 
