@@ -1,5 +1,7 @@
 ### AARRR
 
+![AARRR](https://github.com/seungmin0217/study/blob/main/image/aarrr.webp)
+
 ---
 
 #### 과업 → 지표 (과업 기반 지표 관리)  
