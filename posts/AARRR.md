@@ -1,6 +1,6 @@
 ### AARRR
 
-![AARRR](image/aarrr.webp)
+![AARRR](images/aarrr.webp)
 
 ---
 
