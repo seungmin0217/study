@@ -1,6 +1,6 @@
 ### AARRR
 
-![AARRR](https://github.com/seungmin0217/study/blob/main/image/aarrr.webp)
+![AARRR](image/aarrr.webp)
 
 ---
 
