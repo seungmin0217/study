@@ -14,9 +14,5 @@
 
 #### 주제별 학습
 
-- **Spark**  
-  - [Chapter 1, 2](spark/chapter1,2.ipynb)  
-  - [Chapter 3](spark/chapter3.ipynb)  
-
 - **SQL**  
   - SQL 관련 학습 내용을 추가 예정입니다.
